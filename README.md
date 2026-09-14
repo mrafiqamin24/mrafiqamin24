@@ -31,6 +31,15 @@
 </picture>
 </p>
 
+<p>
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/stack-mobile-dark.svg">
+  <source media="(max-width: 600px)" srcset="assets/stack-mobile-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
+  <img src="assets/stack-light.svg" width="100%" alt="Tech stack. Frontend: TypeScript, React, Next.js, Tailwind CSS, Vite, Inertia, Three.js. Backend: PHP, Laravel, Filament, Node.js, Prisma, Auth.js, Zod, Apps Script. Mobile: Flutter, Dart, Riverpod, SQLite. Database: MySQL, Redis. Infrastructure: Proxmox, Debian, Docker, Nginx, Cloudflare, Tailscale, WireGuard, MikroTik, GitHub Actions. Testing: Vitest, Playwright, Pest, PHPUnit.">
+</picture>
+</p>
+
 <details>
 <summary><b>Bahasa Indonesia</b></summary>
 <br>
