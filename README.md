@@ -12,7 +12,7 @@
 | Product | What it does |
 | :-- | :-- |
 | **[Crypt-Man](https://crypt.amincloud.id)**<br>`live` | Password generator with in-browser encryption: the server never sees your plaintext<br><sub>Next.js · Prisma</sub> |
-| **Ownertech.id**<br>[`preview`](https://mrafiqamin24.github.io/App-POS/) | Point of sale for shops, offline-first on Windows and Android<br><sub>Laravel · Flutter</sub> |
+| **Ownertech.id** | Point of sale for shops, offline-first on Windows and Android<br><sub>Laravel · Flutter</sub> |
 | **Restotech.id** | Multi-tenant restaurant app: QR table ordering, kitchen and finance<br><sub>Next.js · Prisma</sub> |
 | **Homtech.id** | Multi-tenant hotel and lodging management<br><sub>Next.js · Prisma</sub> |
 | **PlatformHQ** | Operator console across Ownertech.id and Restotech.id<br><sub>Laravel · Filament</sub> |
@@ -31,14 +31,25 @@
 </picture>
 </p>
 
-<p>
-<picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/stack-mobile-dark.svg">
-  <source media="(max-width: 600px)" srcset="assets/stack-mobile-light.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
-  <img src="assets/stack-light.svg" width="100%" alt="Tech stack. Frontend: TypeScript, React, Next.js, Tailwind CSS, Vite, Inertia, Three.js. Backend: PHP, Laravel, Filament, Node.js, Prisma, Auth.js, Zod, Apps Script. Mobile: Flutter, Dart, Riverpod, SQLite. Database: MySQL, Redis. Infrastructure: Proxmox, Debian, Docker, Nginx, Cloudflare, Tailscale, WireGuard, MikroTik, GitHub Actions. Testing: Vitest, Playwright, Pest, PHPUnit.">
-</picture>
-</p>
+### Tech stack
+
+**Frontend**<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/typescript/typescript-original.svg" height="36" alt="TypeScript">&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/react/react-original.svg" height="36" alt="React">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/nextdotjs/000000/ffffff" height="36" alt="Next.js">&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/tailwindcss/tailwindcss-original.svg" height="36" alt="Tailwind CSS">&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/vitejs/vitejs-original.svg" height="36" alt="Vite">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/inertia" height="36" alt="Inertia">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/threedotjs/000000/ffffff" height="36" alt="Three.js">
+
+**Backend**<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/php/php-original.svg" height="36" alt="PHP">&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/laravel/laravel-original.svg" height="36" alt="Laravel">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/nodedotjs" height="36" alt="Node.js">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/prisma/2D3748/ffffff" height="36" alt="Prisma">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/zod" height="36" alt="Zod">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/googleappsscript" height="36" alt="Google Apps Script">
+
+**Mobile**<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/flutter/flutter-original.svg" height="36" alt="Flutter">&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/dart/dart-original.svg" height="36" alt="Dart">&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/sqlite/sqlite-original.svg" height="36" alt="SQLite">
+
+**Database**<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/mysql/mysql-original.svg" height="36" alt="MySQL">&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/redis/redis-original.svg" height="36" alt="Redis">
+
+**Infrastructure**<br>
+<img src="https://cdn.simpleicons.org/proxmox" height="36" alt="Proxmox">&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/debian/debian-original.svg" height="36" alt="Debian">&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/docker/docker-original.svg" height="36" alt="Docker">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/nginx" height="36" alt="Nginx">&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/cloudflare/cloudflare-original.svg" height="36" alt="Cloudflare">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/tailscale/242424/ffffff" height="36" alt="Tailscale">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/wireguard/88171A/ffffff" height="36" alt="WireGuard">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/mikrotik/293239/ffffff" height="36" alt="MikroTik">&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/githubactions/githubactions-original.svg" height="36" alt="GitHub Actions">
+
+**Testing**<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/vitest/vitest-original.svg" height="36" alt="Vitest">&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/playwright/playwright-original.svg" height="36" alt="Playwright">
 
 <details>
 <summary><b>Bahasa Indonesia</b></summary>
