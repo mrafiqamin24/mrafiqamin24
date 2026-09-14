@@ -1,0 +1,22 @@
+{
+  "date": "2026-09-14",
+  "bytes": {
+    "Batchfile": 61937,
+    "Blade": 127224,
+    "C": 734,
+    "C++": 22027,
+    "CMake": 11113,
+    "CSS": 284121,
+    "Dart": 2472858,
+    "Dockerfile": 5342,
+    "HTML": 298567,
+    "Inno Setup": 2188,
+    "JavaScript": 338846,
+    "Kotlin": 289,
+    "PHP": 4402824,
+    "PowerShell": 6414,
+    "Python": 16941,
+    "Shell": 25515,
+    "TypeScript": 5429461
+  }
+}
