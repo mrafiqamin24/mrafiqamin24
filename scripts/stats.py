@@ -143,8 +143,10 @@ def render(t: Theme, stats: dict) -> str:
     d.text(f"UPDATED {stats['updated']}", WIDTH - PAD, 40, 13, "mono", t.ink2, anchor="end")
     d.line(left, 62, right, 62, t.ink, MEDIUM)
 
+    # No thousands separator: in B612 Mono the comma takes a full cell and "1,158"
+    # reads as "1, 158".
     figures = [
-        ("Contributions", f"{stats['contributions']:,}"),
+        ("Contributions", str(stats["contributions"])),
         ("Active days", str(stats["active"])),
         ("Longest streak · days", str(stats["longest"])),
         ("Current streak · days", str(stats["current"])),
