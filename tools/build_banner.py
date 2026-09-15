@@ -20,10 +20,10 @@ TITLE_BLOCK_Y = 332
 NAME = "MUHAMMAD RAFIQ AMIN"
 LABEL = "PROFILE · WEST KALIMANTAN, INDONESIA"
 DIMENSION = "8+ PRODUCTS BUILT"
-ROLE = "Full-stack developer — web, mobile & self-hosted infrastructure"
+ROLE = "Full-stack developer & DevOps engineer — web, mobile & self-hosted infrastructure"
 STACK = ["TYPESCRIPT", "NEXT.JS", "LARAVEL", "FLUTTER", "MYSQL", "PROXMOX"]
 TITLE = (
-    "Muhammad Rafiq Amin, full-stack developer from West Kalimantan, Indonesia. "
+    "Muhammad Rafiq Amin, full-stack developer and DevOps engineer from West Kalimantan, Indonesia. "
     "Web, mobile and self-hosted infrastructure."
 )
 

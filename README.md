@@ -1,11 +1,11 @@
 <p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img src="assets/banner-light.svg" width="100%" alt="Muhammad Rafiq Amin, full-stack developer from West Kalimantan, Indonesia. Web, mobile and self-hosted infrastructure with TypeScript, Next.js, Laravel, Flutter, MySQL and Proxmox.">
+  <img src="assets/banner-light.svg" width="100%" alt="Muhammad Rafiq Amin, full-stack developer and DevOps engineer from West Kalimantan, Indonesia. Web, mobile and self-hosted infrastructure with TypeScript, Next.js, Laravel, Flutter, MySQL and Proxmox.">
 </picture>
 </p>
 
-**Full-stack developer from West Kalimantan, Indonesia.** I build web and mobile products for real businesses, and I run the production server they live on.
+**Full-stack developer and DevOps engineer from West Kalimantan, Indonesia.** I build web and mobile products for real businesses, and I run the production server they live on.
 
 ### Products
 
@@ -55,7 +55,7 @@
 <summary><b>Bahasa Indonesia</b></summary>
 <br>
 
-Developer full-stack dari Kalimantan Barat. Saya membangun produk web dan mobile untuk usaha nyata: kasir toko, restoran, hotel, drive keluarga, dan aplikasi enkripsi Crypt-Man, lalu menjalankannya di server produksi milik sendiri. Kode produk bersifat privat; demo, studi kasus, dan tanggal rilis tiap project ada di [mra1.my.id](https://mra1.my.id).
+Developer full-stack dan DevOps engineer dari Kalimantan Barat. Saya membangun produk web dan mobile untuk usaha nyata: kasir toko, restoran, hotel, drive keluarga, dan aplikasi enkripsi Crypt-Man, lalu menjalankannya di server produksi milik sendiri. Kode produk bersifat privat; demo, studi kasus, dan tanggal rilis tiap project ada di [mra1.my.id](https://mra1.my.id).
 
 </details>
 
