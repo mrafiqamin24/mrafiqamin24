@@ -15,14 +15,14 @@
 | **Ownertech.id** | Point of sale for shops, offline-first on Windows and Android<br><sub>Laravel · Flutter</sub> |
 | **Restotech.id** | Multi-tenant restaurant app: QR table ordering, kitchen and finance<br><sub>Next.js · Prisma</sub> |
 | **Homtech.id** | Multi-tenant hotel and lodging management<br><sub>Next.js · Prisma</sub> |
-| **PlatformHQ** | Operator console across Ownertech.id and Restotech.id<br><sub>Laravel · Filament</sub> |
+| **PlatformHQ** | Operator console across Ownertech.id, Restotech.id and Homtech.id<br><sub>Laravel · Filament</sub> |
 | **Amin Cloud** | Self-hosted family drive<br><sub>Laravel · React</sub> |
 
 <sub>Most product source code is private; demos and case studies are on my portfolio.</sub>
 
-**Client work** · Toko Berkah Jaya (GPS attendance) · MR Hotel (booking app) · [MI Al-Amin Tumbang Titi](https://mrafiqamin24.github.io/MI-Al-Amin/) (school website)
+**Client work** · Toko Berkah Jaya (GPS attendance) · [MR Hotel](https://hotel.ownertech.id) (booking app, live) · [MI Al-Amin Tumbang Titi](https://mrafiqamin24.github.io/MI-Al-Amin/) (school website)
 
-**Homelab** · my own production server on Proxmox, with ZFS mirrors and Cloudflare Tunnel
+**Homelab** · my own production server on Proxmox, with ZFS mirrors and Cloudflare Tunnel; Crypt-Man runs on it
 
 <p>
 <picture>
@@ -55,8 +55,8 @@
 <summary><b>Bahasa Indonesia</b></summary>
 <br>
 
-Developer full-stack dari Kalimantan Barat. Saya membangun produk web dan mobile untuk usaha nyata: kasir toko, restoran, hotel, drive keluarga, dan aplikasi enkripsi Crypt-Man, lalu menjalankannya di server produksi milik sendiri. Kode produk bersifat privat; demo dan portofolio ada di tautan di bawah.
+Developer full-stack dari Kalimantan Barat. Saya membangun produk web dan mobile untuk usaha nyata: kasir toko, restoran, hotel, drive keluarga, dan aplikasi enkripsi Crypt-Man, lalu menjalankannya di server produksi milik sendiri. Kode produk bersifat privat; demo, studi kasus, dan tanggal rilis tiap project ada di [mra1.my.id](https://mra1.my.id).
 
 </details>
 
-[Portfolio](https://portfolio.ownertech.id) · [Crypt-Man](https://crypt.amincloud.id)
+[Portfolio](https://mra1.my.id) · [LinkedIn](https://www.linkedin.com/in/muhammad-rafiq-amin-2524b4437) · [Crypt-Man](https://crypt.amincloud.id)

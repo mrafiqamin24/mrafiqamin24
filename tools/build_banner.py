@@ -49,7 +49,7 @@ def render(theme: Theme) -> str:
         TITLE_BLOCK_Y,
         [
             (None, "MRA", "monob"),
-            ("Portfolio", "portfolio.ownertech.id", "semi"),
+            ("Portfolio", "mra1.my.id", "semi"),
             ("Based in", "Kalimantan Barat, Indonesia", "semi"),
         ],
         x0=THICK + ZONE,
