@@ -19,6 +19,9 @@ jobs:
     steps:
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
 
+      - name: Install fontTools (text outlines for the card)
+        run: python3 -m pip install --quiet "fonttools>=4.50"
+
       - name: Render card
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

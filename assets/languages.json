@@ -1,22 +1,22 @@
 {
-  "date": "2026-09-14",
+  "date": "2026-09-16",
   "bytes": {
-    "Batchfile": 61937,
-    "Blade": 127224,
+    "Batchfile": 61956,
+    "Blade": 145950,
     "C": 734,
     "C++": 22027,
     "CMake": 11113,
-    "CSS": 284121,
+    "CSS": 238421,
     "Dart": 2472858,
     "Dockerfile": 5342,
-    "HTML": 298567,
+    "HTML": 304052,
     "Inno Setup": 2188,
-    "JavaScript": 338846,
+    "JavaScript": 244734,
     "Kotlin": 289,
-    "PHP": 4402824,
+    "PHP": 4741129,
     "PowerShell": 6414,
-    "Python": 16941,
+    "Python": 183547,
     "Shell": 25515,
-    "TypeScript": 5429461
+    "TypeScript": 5877837
   }
 }
